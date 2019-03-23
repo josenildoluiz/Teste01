@@ -1,6 +1,5 @@
 primeira linha o arquivo 1
-mod 2
 mod 3
 linha 4 e 5 removida
 mod 6
-MOD 7
+MOD 7---testes 
